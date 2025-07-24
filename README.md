@@ -68,3 +68,10 @@ Include automated data refresh from external sources
 
 Author
 Created by Ratikanta Sahu
+
+
+
+<img width="1708" height="295" alt="image" src="https://github.com/user-attachments/assets/1883394e-a8d8-45e7-8da0-0b35092e16d7" />
+<img width="1679" height="405" alt="image" src="https://github.com/user-attachments/assets/e7541aae-0fcd-446f-aeaa-024009d93216" />
+<img width="1673" height="422" alt="image" src="https://github.com/user-attachments/assets/6db639c9-f1da-46b8-963d-dc5ab25fd5cc" />
+
